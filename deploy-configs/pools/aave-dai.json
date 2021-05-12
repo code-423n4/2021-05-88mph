@@ -1,0 +1,19 @@
+{
+  "name": "88mph aDAI Pool",
+  "nftNamePrefix": "88mph aDAI Pool--",
+  "nftSymbolPrefix": "88mph-aDAI-",
+  "moneyMarket": "AaveMarket",
+  "interestModel": "LinearDecayInterestModel",
+  "interestOracle": "EMAOracle",
+  "feeModel": "PercentageFeeModel",
+  "MaxDepositPeriod": 31556952,
+  "MinDepositAmount": 100e18,
+  "stablecoin": "0x6b175474e89094c44da98b954eedeac495271d0f",
+  "EMAInitial": 19e8,
+  "EMAUpdateInverval": 86400,
+  "EMASmoothingFactor": 2e18,
+  "EMAAverageWindowInIntervals": 30,
+  "moneyMarketParams": {
+    "aToken": "0x028171bCA77440897B824Ca71D1c56caC55b68A3"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "name": "88mph yDAI Pool",
+  "nftNamePrefix": "88mph yDAI Pool--",
+  "nftSymbolPrefix": "88mph-yDAI-",
+  "moneyMarket": "YVaultMarket",
+  "interestModel": "LinearDecayInterestModel",
+  "interestOracle": "EMAOracle",
+  "feeModel": "PercentageFeeModel",
+  "MaxDepositPeriod": 31556952,
+  "MinDepositAmount": 100e18,
+  "stablecoin": "0x6b175474e89094c44da98b954eedeac495271d0f",
+  "multiplierIntercept": 0.5e18,
+  "multiplierSlope": 7922184626,
+  "EMAInitial": 25e8,
+  "EMAUpdateInverval": 604800,
+  "EMASmoothingFactor": 2e18,
+  "EMAAverageWindowInIntervals": 4,
+  "moneyMarketParams": {
+    "vault": "0x19D3364A399d251E894aC732651be8B0E4e85001"
+  }
+}
