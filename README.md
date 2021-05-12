@@ -20,7 +20,7 @@ Some of the checklists in this doc are for **C4 (🐺)** and some of them are fo
 - [ ] Make sure your code is thoroughly commented using the [NatSpec format](https://docs.soliditylang.org/en/v0.5.10/natspec-format.html#natspec-format).
 - [ ] Create a PR to this repo with the above changes.
 - [ ] Modify the bottom of this `README.md` file to describe how your code is supposed to work with links to any relevent documentation and any other criteria/details that the C4 Wardens should keep in mind when reviewing
-- [ ] Please have final versions of contracts and documentation added/updated in this repo **no less than 8 hours prior to contest start time.**
+- [ ] Please have final versions of contracts and documentation added/updated in this repo **no less than 2 hours prior to contest start time.**
 - [ ] Ensure that you have access to the _findings_ repo where issues will be submitted.
 - [ ] Delete this checklist and all text above the line below when you're ready.
 
